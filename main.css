@@ -44,13 +44,13 @@ p {
     color: #666
 }
 
-@media screen and (min-width:700px) {
+@media screen and (min-width:375px) {
     h1 {
         font-size: 3.5rem
     }
 }
 
-@media screen and (min-width:1000px) {
+@media screen and (min-width:375px) {
     h1 {
         font-size: 4rem
     }
@@ -64,7 +64,7 @@ p {
 
 .block {
     padding: 64px 32px;
-    padding: 4rem 2rem
+    padding: 2rem 2rem
 }
 
 @media screen and (min-width:375px) {
@@ -364,7 +364,7 @@ input.inverted::placeholder {
     width: 100%
 }
 
-@media screen and (min-width:700px) {
+@media screen and (min-width:375px) {
     .block-hero-2 .column.text {
         -ms-flex: 0 0 45%;
         flex: 0 0 45%;
@@ -384,7 +384,7 @@ input.inverted::placeholder {
     }
 
     .block-hero-2 .column.media img {
-        width: 45vw;
+        width: 20vw;
         max-width: 520px
     }
 }
