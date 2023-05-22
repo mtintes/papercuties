@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: PaperCuties.com
 date: 2023-05-21T23:00:00.000+00:00
 page_sections:
   - template: hero-banner-w-image
@@ -12,5 +12,5 @@ page_sections:
     image:
       image: "/uploads/3bookmark_product_page.png"
       alt_text: a shot of an owl, shiba inu, and a cat bookmark
-    background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    background_image: "/uploads/hero-2-bg.png"
 ---
